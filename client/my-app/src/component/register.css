@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* input{
+    height: 2px;
+    width: 200px;
+    margin: 10px;
+    padding: 20px;
+} */
+/* .register {
+    margin: 100px;
+    width: 100%;
+    height: 500px;
+    border-radius: 30px;
+    background: white;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+} */
+
+.cont-form {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+input{
+    display: inline-block;
+    margin: 5px;
+}
+h1{
+    justify-content: center;
+    align-items: center;
+}
+
+

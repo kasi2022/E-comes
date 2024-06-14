@@ -1,0 +1,27 @@
+.left{
+    width: 20%;
+    height:600px;
+    background: gray;
+    color: white;
+
+}
+.parent{
+    display: flex;
+}
+nav{
+    width: 100%;
+    height: 50px;
+    background: purple;
+}
+.container{
+    background: red;
+    width: 10%;
+    height: 30px;
+}
+ h2{
+ color: white;
+}
+
+Link{
+    text-decoration: none;
+}
